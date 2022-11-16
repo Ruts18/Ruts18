@@ -14,5 +14,6 @@ Languages and Tools:
 -  Course Work: 1. Bug hunting
         Microsoft Ignite 2022: Cloud Developer Challenge = learnt about Azur DevOps and Azur Board,PipleLine , Git , GitHub.
 
-- 📫 Projects 🧑‍🚀 Open Source Projects : https://vercel.com/ruts18
+- 📫 Projects 🧑‍🚀 Open Source Projects 
+- deploy projects in: https://vercel.com/ruts18
 
